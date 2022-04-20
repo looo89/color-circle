@@ -1,0 +1,12 @@
+
+
+.myCircle{
+    grid-area: c;
+    background-color: #3b3b3d;
+    width: 150px;
+    height: 150px;
+    background-color: aquamarine;
+    color: red;
+    border-radius: 50%;
+}
+

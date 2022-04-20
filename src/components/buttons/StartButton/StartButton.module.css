@@ -1,0 +1,10 @@
+
+
+.myButton{
+    grid-area: b;
+    width: 300px;
+    height: 60px;
+    background-color: aquamarine;
+    color: red;
+    border-radius: 10%;
+}
